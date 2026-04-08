@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-rs-andrews-of-tidewater.dream-surge.com/sitemap-index.xml

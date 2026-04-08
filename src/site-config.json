@@ -1,0 +1,600 @@
+{
+  "business": {
+    "name": "RS Andrews of Tidewater",
+    "phone": "+17579608228",
+    "category": "HVAC company",
+    "city": "Virginia Beach",
+    "state": "VA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Tidewater's Trusted HVAC Experts",
+      "heroSubline": "Reliable heating and cooling solutions for Virginia Beach and beyond. Call RS Andrews for lasting comfort and quality service.",
+      "aboutTitle": "Keeping Coastal Virginia Comfortable Since 2012",
+      "aboutText": [
+        "RS Andrews of Tidewater started with a simple mission: to provide honest, dependable HVAC services to our neighbors in Virginia Beach. We understood the unique challenges of coastal living – the humidity, salt air, and storm seasons – and built our business to meet those needs head-on.",
+        "We're not just technicians; we're problem-solvers. We take the time to understand your specific needs and concerns, offering tailored solutions that prioritize efficiency, longevity, and your family's comfort. Our team is committed to clear communication, upfront pricing, and meticulous workmanship.",
+        "RS Andrews is deeply rooted in the Hampton Roads community. We actively support local initiatives and believe in giving back to the people who have supported us. When you choose RS Andrews, you're choosing a company that cares about more than just your HVAC system; you're choosing a neighbor."
+      ],
+      "valueProps": [
+        {
+          "title": "24/7 Emergency Service",
+          "description": "HVAC emergencies don't wait for business hours, and neither do we. Our team is available around the clock to handle urgent repairs and ensure your comfort is restored quickly."
+        },
+        {
+          "title": "Expert Technicians",
+          "description": "Our technicians are highly trained, certified, and equipped to handle any HVAC issue, from routine maintenance to complex system installations. We stay up-to-date on the latest technologies and best practices."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No hidden fees or surprises. We provide clear, detailed estimates before any work begins, so you know exactly what to expect. We believe in transparency and honesty in all our dealings."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We stand behind our work with a satisfaction guarantee. If you're not completely happy with our service, we'll do everything we can to make it right. Your comfort and peace of mind are our top priorities."
+        }
+      ],
+      "ctaHeadline": "Don't Sweat It. Call RS Andrews.",
+      "ctaSubline": "Get fast, reliable HVAC service from the experts in Virginia Beach."
+    },
+    "services": [
+      {
+        "slug": "ac-repair",
+        "name": "Air Conditioning Repair",
+        "shortDescription": "Fast, reliable AC repair for Virginia Beach homes and businesses.",
+        "description": "When your air conditioner breaks down in the middle of a sweltering Virginia summer, you need a repair service you can trust. RS Andrews of Tidewater provides prompt, professional AC repair to get your system back up and running quickly. We understand the urgency of these situations and prioritize emergency repairs to minimize discomfort and potential damage.\n\nOur experienced technicians are equipped to diagnose and repair all makes and models of air conditioners. We use only high-quality replacement parts to ensure lasting performance and reliability. Whether it's a refrigerant leak, a faulty compressor, or a simple electrical issue, we'll identify the problem and provide a cost-effective solution.\n\nWe also offer preventative maintenance services to help avoid costly repairs down the road. Regular tune-ups can improve your AC's efficiency, extend its lifespan, and keep your home cool and comfortable all summer long. Don't wait until your AC breaks down – call RS Andrews today for expert repair and maintenance services.",
+        "process": [
+          "Diagnose the AC problem.",
+          "Provide upfront pricing for repair.",
+          "Complete the AC repair with quality parts.",
+          "Test the AC system to ensure proper operation."
+        ],
+        "benefits": [
+          "Faster Cooling",
+          "Lower Energy Bills",
+          "Extended AC Lifespan",
+          "Peace of Mind"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to an AC repair request?",
+            "answer": "We offer 24/7 emergency service and strive to respond to all repair requests as quickly as possible. Our goal is to minimize your discomfort and get your AC back up and running ASAP."
+          },
+          {
+            "question": "What are the signs that my AC needs repair?",
+            "answer": "Common signs include warm air blowing from vents, unusual noises, frequent cycling, water leaks, and a significant increase in energy bills. If you notice any of these issues, call us for a professional diagnosis."
+          },
+          {
+            "question": "Do you offer a warranty on your AC repairs?",
+            "answer": "Yes, we stand behind our work with a warranty on all AC repairs. The specific terms of the warranty will vary depending on the nature of the repair and the parts used. We'll provide you with complete details before starting any work."
+          }
+        ]
+      },
+      {
+        "slug": "ac-installation",
+        "name": "Air Conditioning Installation",
+        "shortDescription": "Expert AC installation services for homes and businesses in Virginia Beach.",
+        "description": "Installing a new air conditioning system is a significant investment, and it's crucial to choose a contractor you can trust. RS Andrews of Tidewater provides professional AC installation services tailored to your specific needs and budget. We take into account factors such as your home's size, insulation, and climate to recommend the most efficient and effective system for your situation.\n\nWe work with all major brands and offer a wide range of AC systems, including central air conditioners, ductless mini-splits, and heat pumps. Our experienced technicians will handle every aspect of the installation process, from removing your old system to properly sizing and installing the new unit. We also ensure that all ductwork is properly sealed and insulated to maximize efficiency.\n\nWith proper installation, your new AC system will provide reliable cooling for years to come while saving you money on energy bills. We also offer financing options to make AC installation more affordable. Contact RS Andrews today for a free consultation and estimate.",
+        "process": [
+          "Assess cooling needs and recommend the best AC system.",
+          "Remove the old AC unit safely.",
+          "Install the new AC unit according to manufacturer specifications.",
+          "Test the system and ensure optimal performance."
+        ],
+        "benefits": [
+          "Improved Comfort",
+          "Lower Energy Bills",
+          "Increased Home Value",
+          "Reliable Cooling Performance"
+        ],
+        "faq": [
+          {
+            "question": "How do I know what size AC system I need?",
+            "answer": "Our experienced technicians will perform a load calculation to determine the appropriate size AC system for your home. This calculation takes into account factors such as square footage, insulation, window size, and climate."
+          },
+          {
+            "question": "What are the benefits of a ductless mini-split system?",
+            "answer": "Ductless mini-splits are a great option for homes without existing ductwork or for adding cooling to specific rooms. They are energy-efficient, quiet, and easy to install."
+          },
+          {
+            "question": "Do you offer financing for AC installation?",
+            "answer": "Yes, we offer flexible financing options to make AC installation more affordable. Contact us to learn more about our financing plans."
+          }
+        ]
+      },
+      {
+        "slug": "heating-repair",
+        "name": "Heating Repair",
+        "shortDescription": "Reliable heating repair services to keep your home warm all winter long.",
+        "description": "When the temperatures drop in Virginia Beach, a functioning heating system is essential for your comfort and safety. RS Andrews of Tidewater provides prompt, professional heating repair services to get your furnace or heat pump back up and running quickly. We understand the urgency of these situations and prioritize emergency repairs to minimize discomfort and potential health risks.\n\nOur experienced technicians are equipped to diagnose and repair all makes and models of heating systems. We use only high-quality replacement parts to ensure lasting performance and reliability. Whether it's a faulty igniter, a broken blower motor, or a gas leak, we'll identify the problem and provide a cost-effective solution.\n\nWe also offer preventative maintenance services to help avoid costly repairs down the road. Regular tune-ups can improve your heating system's efficiency, extend its lifespan, and keep your home warm and comfortable all winter long. Don't wait until your heating system breaks down – call RS Andrews today for expert repair and maintenance services.",
+        "process": [
+          "Diagnose the heating system problem.",
+          "Provide upfront pricing for the repair.",
+          "Complete the heating system repair with quality parts.",
+          "Test the heating system to ensure proper operation."
+        ],
+        "benefits": [
+          "Consistent Heating",
+          "Lower Energy Bills",
+          "Extended Heating System Lifespan",
+          "Safe Operation"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to a heating repair request?",
+            "answer": "We offer 24/7 emergency service and strive to respond to all repair requests as quickly as possible, especially during the winter months. Your safety and comfort are our top priorities."
+          },
+          {
+            "question": "What are the signs that my heating system needs repair?",
+            "answer": "Common signs include cold air blowing from vents, unusual noises, a burning smell, frequent cycling, and a significant increase in energy bills. If you notice any of these issues, call us for a professional diagnosis."
+          },
+          {
+            "question": "Do you offer a warranty on your heating repairs?",
+            "answer": "Yes, we stand behind our work with a warranty on all heating repairs. The specific terms of the warranty will vary depending on the nature of the repair and the parts used. We'll provide you with complete details before starting any work."
+          }
+        ]
+      },
+      {
+        "slug": "heating-installation",
+        "name": "Heating Installation",
+        "shortDescription": "Expert heating installation services for homes and businesses in Virginia Beach.",
+        "description": "Installing a new heating system is a significant investment, and it's crucial to choose a contractor you can trust. RS Andrews of Tidewater provides professional heating installation services tailored to your specific needs and budget. We take into account factors such as your home's size, insulation, and climate to recommend the most efficient and effective system for your situation.\n\nWe work with all major brands and offer a wide range of heating systems, including furnaces, heat pumps, and boilers. Our experienced technicians will handle every aspect of the installation process, from removing your old system to properly sizing and installing the new unit. We also ensure that all ductwork is properly sealed and insulated to maximize efficiency.\n\nWith proper installation, your new heating system will provide reliable warmth for years to come while saving you money on energy bills. We also offer financing options to make heating installation more affordable. Contact RS Andrews today for a free consultation and estimate.",
+        "process": [
+          "Assess heating needs and recommend the best heating system.",
+          "Remove the old heating unit safely.",
+          "Install the new heating unit according to manufacturer specifications.",
+          "Test the system and ensure optimal performance."
+        ],
+        "benefits": [
+          "Improved Comfort",
+          "Lower Energy Bills",
+          "Increased Home Value",
+          "Reliable Heating Performance"
+        ],
+        "faq": [
+          {
+            "question": "How do I know what type of heating system is right for my home?",
+            "answer": "Our experienced technicians will assess your home's heating needs and recommend the best type of system based on factors such as your budget, energy efficiency goals, and existing infrastructure."
+          },
+          {
+            "question": "What are the benefits of a heat pump?",
+            "answer": "Heat pumps are a great option for homes in Virginia Beach because they can provide both heating and cooling. They are also very energy-efficient, which can save you money on your utility bills."
+          },
+          {
+            "question": "Do you offer financing for heating installation?",
+            "answer": "Yes, we offer flexible financing options to make heating installation more affordable. Contact us to learn more about our financing plans."
+          }
+        ]
+      },
+      {
+        "slug": "duct-cleaning",
+        "name": "Duct Cleaning",
+        "shortDescription": "Improve your indoor air quality with professional duct cleaning services.",
+        "description": "Over time, dust, pollen, mold, and other contaminants can accumulate in your air ducts, affecting your indoor air quality and potentially triggering allergies and respiratory problems. RS Andrews of Tidewater provides professional duct cleaning services to remove these contaminants and improve the air you breathe.\n\nOur experienced technicians use specialized equipment to thoroughly clean your ductwork, removing accumulated debris and allergens. We also inspect your ducts for any signs of damage or mold growth and recommend appropriate solutions. Clean air ducts can also improve the efficiency of your HVAC system, saving you money on energy bills.\n\nIf you're concerned about your indoor air quality or notice signs of dust or mold around your vents, call RS Andrews today for a professional duct cleaning. We'll help you create a healthier and more comfortable indoor environment.",
+        "process": [
+          "Inspect the ductwork for contaminants and damage.",
+          "Use specialized equipment to loosen and remove debris.",
+          "Vacuum the ductwork thoroughly.",
+          "Sanitize the ductwork (optional)."
+        ],
+        "benefits": [
+          "Improved Air Quality",
+          "Reduced Allergens",
+          "Improved HVAC Efficiency",
+          "Healthier Indoor Environment"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my ducts cleaned?",
+            "answer": "The frequency of duct cleaning depends on factors such as the age of your home, the presence of pets or smokers, and any existing allergies or respiratory problems. We recommend having your ducts inspected at least every two years and cleaned as needed."
+          },
+          {
+            "question": "What are the signs that my ducts need cleaning?",
+            "answer": "Common signs include visible dust or mold around vents, musty odors, increased allergy symptoms, and unexplained respiratory problems."
+          },
+          {
+            "question": "Is duct cleaning messy?",
+            "answer": "Our technicians use specialized equipment and techniques to minimize mess during the duct cleaning process. We take precautions to protect your home and belongings."
+          }
+        ]
+      },
+      {
+        "slug": "hvac-maintenance",
+        "name": "HVAC Maintenance",
+        "shortDescription": "Extend the life of your HVAC system with regular maintenance services.",
+        "description": "Regular HVAC maintenance is essential for ensuring the efficient and reliable operation of your heating and cooling systems. RS Andrews of Tidewater provides comprehensive HVAC maintenance services to keep your systems running smoothly and prevent costly breakdowns. Our maintenance services include cleaning, inspection, and tune-up of all major HVAC components.\n\nDuring a maintenance visit, our experienced technicians will inspect your system for any signs of wear and tear, lubricate moving parts, check refrigerant levels, and clean coils. We'll also identify and address any potential problems before they escalate into major repairs. Regular maintenance can improve your system's efficiency, extend its lifespan, and save you money on energy bills.\n\nProtect your investment and ensure year-round comfort with regular HVAC maintenance from RS Andrews. Contact us today to schedule a maintenance appointment.",
+        "process": [
+          "Inspect HVAC components for wear and tear.",
+          "Clean coils and filters.",
+          "Check refrigerant levels.",
+          "Lubricate moving parts."
+        ],
+        "benefits": [
+          "Extended System Lifespan",
+          "Improved Efficiency",
+          "Reduced Repair Costs",
+          "Reliable Performance"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my HVAC system maintained?",
+            "answer": "We recommend having your HVAC system maintained at least once a year, preferably in the spring for AC and in the fall for heating."
+          },
+          {
+            "question": "What is included in an HVAC maintenance visit?",
+            "answer": "Our maintenance visits include a thorough inspection, cleaning, and tune-up of all major HVAC components. We'll also identify and address any potential problems."
+          },
+          {
+            "question": "Can regular maintenance really save me money?",
+            "answer": "Yes, regular maintenance can significantly improve your system's efficiency and prevent costly breakdowns, saving you money on both energy bills and repair costs."
+          }
+        ]
+      },
+      {
+        "slug": "heat-pump-services",
+        "name": "Heat Pump Services",
+        "shortDescription": "Expert heat pump repair, installation, and maintenance in Virginia Beach.",
+        "description": "Heat pumps are a popular choice for homeowners in Virginia Beach due to their energy efficiency and ability to provide both heating and cooling. RS Andrews of Tidewater offers a full range of heat pump services, including repair, installation, and maintenance. Our experienced technicians are trained to work on all makes and models of heat pumps.\n\nWhether you need a quick repair to get your heat pump back up and running or are looking to install a new energy-efficient system, we can help. We also offer preventative maintenance services to keep your heat pump running smoothly year-round. With proper care, your heat pump can provide reliable comfort and save you money on energy bills for years to come.\n\nIf you're considering a heat pump for your home or need service on your existing system, call RS Andrews today. We'll provide you with honest advice and expert service.",
+        "process": [
+          "Diagnose heat pump issues accurately.",
+          "Provide efficient and effective repairs.",
+          "Install new heat pump systems professionally.",
+          "Perform routine maintenance for optimal performance."
+        ],
+        "benefits": [
+          "Energy Efficiency",
+          "Reliable Heating and Cooling",
+          "Cost Savings",
+          "Expert Service"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of a heat pump?",
+            "answer": "Heat pumps are energy-efficient, provide both heating and cooling, and can save you money on your utility bills."
+          },
+          {
+            "question": "How long do heat pumps typically last?",
+            "answer": "With proper maintenance, heat pumps can last 15 years or more."
+          },
+          {
+            "question": "How do I know if my heat pump needs repair?",
+            "answer": "Signs that your heat pump needs repair include unusual noises, reduced heating or cooling performance, and increased energy bills."
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "AC Repair",
+        "text": "RS Andrews saved the day! Our AC went out during a heatwave. They came out quickly and fixed it in no time. The technician was professional, courteous, and explained everything clearly. Highly recommend!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Heating Installation",
+        "text": "We had RS Andrews install a new furnace in our Kempsville home. The installation went smoothly, and the team was very respectful of our property. We are very pleased with the new system and the service we received. The price was competitive, and so far, everything is working better than we expected.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Duct Cleaning",
+        "text": "After noticing a lot of dust in our house near the Oceanfront, we called RS Andrews for duct cleaning. The difference is amazing! The air feels cleaner, and my allergies have improved. The technicians were thorough and professional.",
+        "date": "2025-03-01"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "HVAC Maintenance",
+        "text": "I've been using RS Andrews for annual HVAC maintenance for several years. They are always on time, professional, and do a great job keeping my system running efficiently. I appreciate their attention to detail and honest recommendations.",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Heat Pump Repair",
+        "text": "Our heat pump stopped working in the middle of winter. RS Andrews came out quickly and diagnosed the problem. They were able to repair it on the spot, and we were so grateful to have heat again. The price was reasonable and the service was great.",
+        "date": "2024-12-28"
+      },
+      {
+        "name": "Michael S.",
+        "rating": 5,
+        "service": "AC Installation",
+        "text": "RS Andrews installed a new central AC unit in my home. The team was knowledgeable and helped me choose the right system for my needs. The installation was efficient and professional, and I'm very happy with the results. My house is much cooler now, and my energy bills have gone down.",
+        "date": "2024-08-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "HVAC Virginia Beach | RS Andrews",
+        "description": "Trusted HVAC services in Virginia Beach, VA. AC repair, heating installation, duct cleaning & more. Call RS Andrews today!"
+      },
+      "about": {
+        "title": "About RS Andrews | Virginia Beach HVAC",
+        "description": "Learn about RS Andrews of Tidewater, your local HVAC experts. Quality service, experienced technicians, and customer satisfaction guaranteed."
+      },
+      "services": {
+        "title": "HVAC Services | RS Andrews Virginia Beach",
+        "description": "Comprehensive HVAC services in Virginia Beach. AC repair, heating installation, duct cleaning, and more. Contact RS Andrews for reliable service."
+      },
+      "contact": {
+        "title": "Contact RS Andrews | Virginia Beach HVAC",
+        "description": "Contact RS Andrews of Tidewater for all your HVAC needs. Call us today for fast, reliable service in Virginia Beach and surrounding areas."
+      },
+      "reviews": {
+        "title": "RS Andrews Reviews | Virginia Beach HVAC",
+        "description": "Read reviews from satisfied RS Andrews customers in Virginia Beach. See why we're the trusted choice for HVAC services."
+      },
+      "service-areas": {
+        "title": "HVAC Service Areas | RS Andrews VA",
+        "description": "RS Andrews provides HVAC services throughout Virginia Beach and surrounding areas. Find out if we service your location."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    },
+    "serviceAreas": [
+      {
+        "city": "Virginia Beach",
+        "slug": "virginia-beach-va",
+        "state": "VA",
+        "content": "RS Andrews of Tidewater is proud to provide exceptional HVAC services to the residents and businesses of Virginia Beach. We understand the unique climate challenges in this coastal community, from the humid summers to the occasional winter chill. Our team of experienced technicians is equipped to handle all your heating, ventilation, and air conditioning needs, ensuring your comfort year-round.\n\nWhether you require routine maintenance, emergency repairs, or a complete system installation, RS Andrews is committed to delivering prompt, reliable, and affordable service. We use only the highest quality equipment and materials, and our work is backed by a satisfaction guarantee. We're dedicated to keeping Virginia Beach comfortable, one home and business at a time.",
+        "localContext": "Virginia Beach is a vibrant coastal city known for its beautiful beaches, thriving tourism industry, and strong military presence. Residents value reliable services and comfortable living environments.",
+        "nearbyAreas": [
+          "Norfolk",
+          "Chesapeake",
+          "Hampton"
+        ]
+      },
+      {
+        "city": "Norfolk",
+        "slug": "norfolk-va",
+        "state": "VA",
+        "content": "RS Andrews of Tidewater extends its expert HVAC services to the historic city of Norfolk. We recognize the diverse range of homes and businesses in Norfolk, from charming older residences to modern commercial buildings. Our skilled technicians are adept at servicing all types of HVAC systems, ensuring optimal performance and energy efficiency.\n\nWe offer a comprehensive suite of services, including installation, repair, and maintenance. Our focus is on providing prompt, professional service and building lasting relationships with our customers in Norfolk. Trust RS Andrews to keep your home or business comfortable throughout the year.",
+        "localContext": "Norfolk is a major naval hub and cultural center with a rich history and diverse architectural landscape. Its residents appreciate quality services and comfortable indoor environments.",
+        "nearbyAreas": [
+          "Virginia Beach",
+          "Chesapeake",
+          "Portsmouth"
+        ]
+      },
+      {
+        "city": "Chesapeake",
+        "slug": "chesapeake-va",
+        "state": "VA",
+        "content": "RS Andrews of Tidewater is pleased to serve the growing community of Chesapeake, Virginia. We understand the importance of reliable HVAC systems for homes and businesses alike. Our team is dedicated to providing top-notch service and ensuring your comfort throughout the year.\n\nFrom routine maintenance to emergency repairs and new installations, we offer a full range of HVAC services. We pride ourselves on our prompt response times, professional workmanship, and commitment to customer satisfaction. Let RS Andrews be your trusted partner for all your HVAC needs in Chesapeake.",
+        "localContext": "Chesapeake is a rapidly expanding city with a mix of residential and commercial areas. Residents value reliable services and a comfortable quality of life.",
+        "nearbyAreas": [
+          "Virginia Beach",
+          "Norfolk",
+          "Suffolk"
+        ]
+      },
+      {
+        "city": "Hampton",
+        "slug": "hampton-va",
+        "state": "VA",
+        "content": "RS Andrews of Tidewater provides comprehensive HVAC services to the residents and businesses of Hampton, Virginia. We understand the unique climate conditions in Hampton and the importance of a properly functioning HVAC system. Our experienced technicians are equipped to handle all your heating and cooling needs, ensuring your comfort and well-being.\n\nWe offer a wide range of services, including installation, repair, and maintenance of all types of HVAC systems. Our commitment to quality workmanship and customer satisfaction sets us apart. Trust RS Andrews to keep your home or business comfortable year-round in Hampton.",
+        "localContext": "Hampton is a historic city with a strong aerospace and technology presence. Residents value reliable services and comfortable indoor environments.",
+        "nearbyAreas": [
+          "Newport News",
+          "Poquoson",
+          "Yorktown"
+        ]
+      },
+      {
+        "city": "Newport News",
+        "slug": "newport-news-va",
+        "state": "VA",
+        "content": "RS Andrews of Tidewater is dedicated to providing exceptional HVAC services to the community of Newport News. We understand the importance of a reliable and efficient HVAC system for your home or business. Our team of skilled technicians is committed to delivering top-notch service and ensuring your complete satisfaction.\n\nWhether you need routine maintenance, emergency repairs, or a complete system replacement, we have the expertise and experience to handle it all. We use only the highest quality equipment and materials, and our work is backed by a satisfaction guarantee. Choose RS Andrews for all your HVAC needs in Newport News.",
+        "localContext": "Newport News is a major shipbuilding center with a strong industrial base. Residents value reliable services and comfortable living environments.",
+        "nearbyAreas": [
+          "Hampton",
+          "Yorktown",
+          "Williamsburg"
+        ]
+      },
+      {
+        "city": "Portsmouth",
+        "slug": "portsmouth-va",
+        "state": "VA",
+        "content": "RS Andrews of Tidewater is proud to offer our expert HVAC services to the residents and businesses of Portsmouth, Virginia. We understand the unique needs of this historic city and are committed to providing reliable and affordable solutions for all your heating and cooling needs.\n\nFrom routine maintenance to emergency repairs and new installations, our team of experienced technicians is equipped to handle any HVAC challenge. We use only the highest quality equipment and materials, and our work is backed by a satisfaction guarantee. Trust RS Andrews to keep your home or business comfortable year-round in Portsmouth.",
+        "localContext": "Portsmouth is a historic naval city with a charming downtown area. Residents value reliable services and a strong sense of community.",
+        "nearbyAreas": [
+          "Norfolk",
+          "Chesapeake",
+          "Suffolk"
+        ]
+      },
+      {
+        "city": "Suffolk",
+        "slug": "suffolk-va",
+        "state": "VA",
+        "content": "RS Andrews of Tidewater extends its professional HVAC services to the city of Suffolk, Virginia. We understand the importance of a well-maintained HVAC system in this diverse community, from rural farmlands to growing residential areas. Our skilled technicians are equipped to handle all your heating and cooling needs, ensuring your comfort and peace of mind.\n\nWe offer a comprehensive range of services, including installation, repair, and maintenance of all types of HVAC systems. Our commitment to quality workmanship and customer satisfaction sets us apart. Choose RS Andrews for all your HVAC needs in Suffolk.",
+        "localContext": "Suffolk is a large, diverse city with a mix of rural and suburban areas. Residents value reliable services and a comfortable lifestyle.",
+        "nearbyAreas": [
+          "Chesapeake",
+          "Portsmouth",
+          "Franklin"
+        ]
+      },
+      {
+        "city": "Poquoson",
+        "slug": "poquoson-va",
+        "state": "VA",
+        "content": "RS Andrews of Tidewater is pleased to offer top-quality HVAC services to the residents of Poquoson, Virginia. We understand the importance of a reliable and efficient HVAC system, especially in a coastal community like Poquoson. Our experienced technicians are dedicated to ensuring your home stays comfortable year-round, regardless of the weather.\n\nWe provide a full range of HVAC services, from routine maintenance and repairs to complete system installations. We pride ourselves on our prompt response times, professional service, and commitment to customer satisfaction. Trust RS Andrews to keep your Poquoson home comfortable and energy-efficient.",
+        "localContext": "Poquoson is a small, close-knit coastal community known for its strong ties to the water. Residents value reliable services and a comfortable, community-oriented lifestyle.",
+        "nearbyAreas": [
+          "Hampton",
+          "Yorktown",
+          "Newport News"
+        ]
+      },
+      {
+        "city": "Yorktown",
+        "slug": "yorktown-va",
+        "state": "VA",
+        "content": "RS Andrews of Tidewater is committed to providing exceptional HVAC services to the historic town of Yorktown, Virginia. We understand the unique needs of homes and businesses in this area, from older buildings to modern constructions. Our skilled technicians are equipped to handle any HVAC challenge, ensuring your comfort and satisfaction.\n\nWe offer a comprehensive range of services, including installation, repair, and maintenance of all types of HVAC systems. Our commitment to quality workmanship and customer satisfaction sets us apart. Choose RS Andrews for all your HVAC needs in Yorktown.",
+        "localContext": "Yorktown is a historic town with significant historical landmarks and a strong tourism industry. Residents value reliable services and a comfortable living environment that respects the town's heritage.",
+        "nearbyAreas": [
+          "Williamsburg",
+          "Newport News",
+          "Poquoson"
+        ]
+      }
+    ]
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "ac-repair": "/images/service-ac-repair.webp",
+      "ac-installation": "/images/service-ac-installation.webp",
+      "heating-repair": "/images/service-heating-repair.webp",
+      "heating-installation": "/images/service-heating-installation.webp",
+      "duct-cleaning": "/images/service-duct-cleaning.webp",
+      "hvac-maintenance": "/images/service-hvac-maintenance.webp",
+      "heat-pump-services": "/images/service-heat-pump-services.webp"
+    },
+    "servicesResponsive": {
+      "ac-repair": {
+        "src": "/images/service-ac-repair.webp",
+        "srcset": "/images/service-ac-repair-400w.webp 400w, /images/service-ac-repair-800w.webp 800w, /images/service-ac-repair-1200w.webp 1200w, /images/service-ac-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "ac-installation": {
+        "src": "/images/service-ac-installation.webp",
+        "srcset": "/images/service-ac-installation-400w.webp 400w, /images/service-ac-installation-800w.webp 800w, /images/service-ac-installation-1200w.webp 1200w, /images/service-ac-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "heating-repair": {
+        "src": "/images/service-heating-repair.webp",
+        "srcset": "/images/service-heating-repair-400w.webp 400w, /images/service-heating-repair-800w.webp 800w, /images/service-heating-repair-1200w.webp 1200w, /images/service-heating-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "heating-installation": {
+        "src": "/images/service-heating-installation.webp",
+        "srcset": "/images/service-heating-installation-400w.webp 400w, /images/service-heating-installation-800w.webp 800w, /images/service-heating-installation-1200w.webp 1200w, /images/service-heating-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "duct-cleaning": {
+        "src": "/images/service-duct-cleaning.webp",
+        "srcset": "/images/service-duct-cleaning-400w.webp 400w, /images/service-duct-cleaning-800w.webp 800w, /images/service-duct-cleaning-1200w.webp 1200w, /images/service-duct-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hvac-maintenance": {
+        "src": "/images/service-hvac-maintenance.webp",
+        "srcset": "/images/service-hvac-maintenance-400w.webp 400w, /images/service-hvac-maintenance-800w.webp 800w, /images/service-hvac-maintenance-1200w.webp 1200w, /images/service-hvac-maintenance.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "heat-pump-services": {
+        "src": "/images/service-heat-pump-services.webp",
+        "srcset": "/images/service-heat-pump-services-400w.webp 400w, /images/service-heat-pump-services-800w.webp 800w, /images/service-heat-pump-services-1200w.webp 1200w, /images/service-heat-pump-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
